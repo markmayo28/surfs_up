@@ -12,3 +12,19 @@ W. Avy is assisting us in obtaining funding for a surf store / ice cream shop on
 Temperature data was extracted for the months of June and December from June 2010 through June 2017. A side-by-side comparison can be seen below:
 
 ![June-Dec_Temp](https://user-images.githubusercontent.com/78807451/122454084-f77b2500-cf78-11eb-83ab-04e8b3a85478.png)
+
+Three key things to note from this data are:
+
+-	The average temperature for these two disparate months varies less than three degrees
+-	The maximum temperature is also very close with a difference of only two degrees
+-	Minimum temperature is where the largest difference occurs with a change of eight degrees
+
+##Summary Analysis
+
+A surf shop store / ice cream shop should do a solid business year-round based on temperature data. With the larger disparity in minimum temperature, one might consider having different operating hours during the winter months. Another analysis that could be useful is to pull summary precipitation data for the same time frame to use as a comparison with the temperature data.
+
+### Precipitation Data for June and December
+
+Precipitation data was extracted for the months of June and December from June 2010 through June 2017. A side-by-side comparison can be seen below:
+
+![June-Dec_prcp](https://user-images.githubusercontent.com/78807451/122457642-db798280-cf7c-11eb-819c-027573594b45.png)
