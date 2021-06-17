@@ -21,10 +21,12 @@ Three key things to note from this data are:
 
 ##Summary Analysis
 
-A surf shop store / ice cream shop should do a solid business year-round based on temperature data. With the larger disparity in minimum temperature, one might consider having different operating hours during the winter months. Another analysis that could be useful is to pull summary precipitation data for the same time frame to use as a comparison with the temperature data.
+A surf store / ice cream shop should do a solid business year-round based on temperature data. With the larger disparity in minimum temperature, one might consider having different operating hours during the winter months. Another analysis that could be useful is to pull summary precipitation data for the same time frame to use as a comparison with the temperature data.
 
 ### Precipitation Data for June and December
 
 Precipitation data was extracted for the months of June and December from June 2010 through June 2017. A side-by-side comparison can be seen below:
 
 ![June-Dec_prcp](https://user-images.githubusercontent.com/78807451/122457642-db798280-cf7c-11eb-819c-027573594b45.png)
+
+This comparison tends along the same trends as the temperature data. The one significant difference between June and December is that when it rains, the rain tends to be heavier in December. The precipitation analysis also supports the idea that the surf store / ice cream shop can be a year-round successful enterprise.
